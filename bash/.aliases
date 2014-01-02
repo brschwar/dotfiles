@@ -8,12 +8,14 @@ alias -- -="cd -"
 
 # Shortcuts
 alias d="cd ~/Documents/Dropbox"
+#/Users/brianschwartz/Dropbox
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
-alias p="cd ~/projects"
 alias g="git"
 alias h="history"
 alias j="jobs"
+# Quickly access workspace #
+alias ws="cd ~/Sites"
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
@@ -147,3 +149,35 @@ alias reload="exec $SHELL -l"
 
 # Faster npm for europeans
 command -v npm > /dev/null && alias npme="npm --registry http://registry.npmjs.eu"
+
+
+
+
+# install  colordiff package #
+alias diff='colordiff'
+
+# become root #
+alias root='sudo -i'
+alias su='sudo -i'
+
+# Apache2 #
+alias a2r="sudo apachectl restart";
+
+# MySQL  #
+alias mysql.start="mysql.server start";
+
+# Sublime Text  #
+alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
+
+# Artisan #
+alias art="php artisan"
+
+# ssh #
+alias sshdev="ssh deploy@dev.codeandtheory.net"
+alias sshdevdp="ssh beanstalk@dev.dp.codeandtheory.net"
+
+# git #
+alias stash-unapply='!git stash show -p | git apply -R'
+
+# phpUnit #
+alias phpunit='vendor/bin/phpunit'

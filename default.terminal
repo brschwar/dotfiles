@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WindowList</key>
+	<array>
+		<dict>
+			<key>Origin</key>
+			<string>{10, 782}</string>
+			<key>ShowsTabBar</key>
+			<false/>
+			<key>ShowsTabBarInFullScreen</key>
+			<false/>
+			<key>Window Settings</key>
+			<array>
+				<dict>
+					<key>Tab Column Count</key>
+					<integer>169</integer>
+					<key>Tab Row Count</key>
+					<integer>38</integer>
+					<key>Tab Scrollback Restorable</key>
+					<true/>
+					<key>Tab Session Class ID</key>
+					<string>D676CFCC-0A77-42F4-B695-9A216A4ECAC2</string>
+					<key>Tab Settings</key>
+					<dict>
+						<key>BackgroundColor</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGFRZYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKMHCA9VJG51
+						bGzTCQoLDA0OVU5TUkdCXE5TQ29s
+						b3JTcGFjZVYkY2xhc3NLMCAwIDAg
+						MC43NQAQAYAC0hAREhNaJGNsYXNz
+						bmFtZVgkY2xhc3Nlc1dOU0NvbG9y
+						ohIUWE5TT2JqZWN0XxAPTlNLZXll
+						ZEFyY2hpdmVy0RcYVHJvb3SAAQgR
+						GiMtMjc7QUhOW2JucHJ3gouTlp+x
+						tLkAAAAAAAABAQAAAAAAAAAZAAAA
+						AAAAAAAAAAAAAAAAuw==
+						</data>
+						<key>Font</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGGBlYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKQHCBESVSRu
+						dWxs1AkKCwwNDg8QVk5TU2l6ZVhO
+						U2ZGbGFnc1ZOU05hbWVWJGNsYXNz
+						I0AmAAAAAAAAEBCAAoADXU1lbmxv
+						LVJlZ3VsYXLSExQVFlokY2xhc3Nu
+						YW1lWCRjbGFzc2VzVk5TRm9udKIV
+						F1hOU09iamVjdF8QD05TS2V5ZWRB
+						cmNoaXZlctEaG1Ryb290gAEIERoj
+						LTI3PEJLUltiaXJ0dniGi5afpqmy
+						xMfMAAAAAAAAAQEAAAAAAAAAHAAA
+						AAAAAAAAAAAAAAAAAM4=
+						</data>
+						<key>FontAntialias</key>
+						<true/>
+						<key>FontWidthSpacing</key>
+						<real>1.004032258064516</real>
+						<key>ProfileCurrentVersion</key>
+						<real>2.02</real>
+						<key>TextBoldColor</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGFRZYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKMHCA9VJG51
+						bGzTCQoLDA0OVU5TUkdCXE5TQ29s
+						b3JTcGFjZVYkY2xhc3NGMSAxIDEA
+						EAGAAtIQERITWiRjbGFzc25hbWVY
+						JGNsYXNzZXNXTlNDb2xvcqISFFhO
+						U09iamVjdF8QD05TS2V5ZWRBcmNo
+						aXZlctEXGFRyb290gAEIERojLTI3
+						O0FITltiaWttcn2GjpGarK+0AAAA
+						AAAAAQEAAAAAAAAAGQAAAAAAAAAA
+						AAAAAAAAALY=
+						</data>
+						<key>TextColor</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGFRZYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKMHCA9VJG51
+						bGzTCQoLDA0OVU5TUkdCXE5TQ29s
+						b3JTcGFjZVYkY2xhc3NPECcwLjcw
+						MzU5MjA1MTYgMC43MDM1OTIwNTE2
+						IDAuNzAzNTkyMDUxNgAQAYAC0hAR
+						EhNaJGNsYXNzbmFtZVgkY2xhc3Nl
+						c1dOU0NvbG9yohIUWE5TT2JqZWN0
+						XxAPTlNLZXllZEFyY2hpdmVy0RcY
+						VHJvb3SAAQgRGiMtMjc7QUhOW2KM
+						jpCVoKmxtL3P0tcAAAAAAAABAQAA
+						AAAAAAAZAAAAAAAAAAAAAAAAAAAA
+						2Q==
+						</data>
+						<key>name</key>
+						<string>Basic</string>
+						<key>type</key>
+						<string>Window Settings</string>
+					</dict>
+					<key>Tab Settings Name</key>
+					<string>Basic</string>
+					<key>TabSelected</key>
+					<true/>
+				</dict>
+			</array>
+			<key>WindowNumber</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>default</string>
+	<key>type</key>
+	<string>Window Group</string>
+</dict>
+</plist>
