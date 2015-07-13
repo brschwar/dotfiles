@@ -1,6 +1,8 @@
 
 # Add `~/bin` to the `$PATH`
-export PATH="$HOME/bin:$PATH"
+# export PATH="$HOME/bin:$PATH"
+# Below is standard Mac OSX PATH, overwritting any existig $PATH values.
+export PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/X11/bin
 
 # Load the shell dotfiles, and then some:
 # * ~/.path can be used to extend `$PATH`.

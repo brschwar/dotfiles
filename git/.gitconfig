@@ -1,0 +1,15 @@
+[user]
+	email = brian.schwartz@codeandtheory.com
+	name = Brian Schwartz
+[core]
+	excludesfile = /Users/brianschwartz/.gitignore_global
+	editor = vim
+[push]
+	default = simple
+[alias]
+	ci = commit
+	cia = commit
+[color]
+	ui = true
+[credential]
+	helper = osxkeychain

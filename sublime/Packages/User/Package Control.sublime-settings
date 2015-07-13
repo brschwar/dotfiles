@@ -1,0 +1,47 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"AutoFileName",
+		"CodeIgniter Snippets",
+		"Color Highlighter",
+		"CSSLint",
+		"Cucumber",
+		"Enlightened Color Scheme",
+		"Gherkin (Cucumber) Formatter",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JSONLint",
+		"Laravel 4 Artisan",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Numix Theme",
+		"Package Control",
+		"PowerCursors",
+		"Preap",
+		"Sass",
+		"Seti_UI",
+		"SFTP",
+		"SideBarEnhancements",
+		"Simple Print Function",
+		"SimplePHPUnit",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-jshint",
+		"SublimeLinter-xmllint",
+		"Tag",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"WordCount"
+	]
+}

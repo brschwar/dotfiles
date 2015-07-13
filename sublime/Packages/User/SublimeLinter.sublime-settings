@@ -1,0 +1,48 @@
+{
+	"user":
+	{
+		"gutter_theme": "",
+		"linters":
+		{
+			"annotations":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"errors":
+				[
+					"FIXME"
+				],
+				"excludes":
+				[
+				],
+				"warnings":
+				[
+					"TODO",
+					"README"
+				]
+			},
+			"jshint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
+			"xmllint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			}
+		}
+	}
+}

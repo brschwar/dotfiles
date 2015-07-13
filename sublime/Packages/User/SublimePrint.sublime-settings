@@ -1,0 +1,5 @@
+{
+    "command": "/usr/local/bin/enscript",
+	"printer_1": "Copy_Machine",
+	"used_printer": "Copy_Machine"
+}

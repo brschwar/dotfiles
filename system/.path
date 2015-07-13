@@ -1,0 +1,10 @@
+# Additional PATH values #
+export PATH=$PATH:/usr/local/git/bin
+export PATH=$PATH:/usr/local/munki
+# export PATH=$PATH:/usr/local/mysql/bin
+export PATH=$PATH:$HOME/sdk/android-sdk-macosx/tools
+export PATH=$PATH:$HOME/sdk/android-sdk-macosx/platform-tools
+# export PATH=$PATH:$HOME/.rvm/bin
+# export PATH=$PATH:$HOME/.rbenv/versions/2.0.0-p247
+export PATH=$PATH:/usr/local/opt/ruby/bin
+export PATH=$PATH:/usr/local/opt/arcanist/bin

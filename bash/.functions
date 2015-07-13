@@ -1,2 +1,0 @@
-# Create a ZIP file without the Mac 'extra' files
-function clean-zip () { zip -r "$1".zip "$1"/ -x *\.DS_Store *\.svn\* *\.git\* *\.git*;}
