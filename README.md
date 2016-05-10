@@ -30,7 +30,7 @@ Step 1: Dotfiles
 
   `mkdir ~/Sites && cd ~/Sites`
 
-  and clone the dotfiles repo into Sites folder
+  and clone the dotfiles repo into Sites folder (you may be prompted to install command line tools).
 
   `git clone git@github.com:brschwar/dotfiles.git`
 
